@@ -1,0 +1,14 @@
+@webApiCurso_HostAddress = https://localhost:7131
+
+GET {{webApiCurso_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{webApiCurso_HostAddress}}/weatherforecast
+
+###
+
+GET {{webApiCurso_HostAddress}}/api/products
+
+###
